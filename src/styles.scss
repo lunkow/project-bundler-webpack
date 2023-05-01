@@ -1,0 +1,15 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+
+    background-color: #FAFAFA;
+
+    @media screen and (max-width: 1400px) {
+        // font-size: 16px;
+    }
+}
+
+@import 'scss/fonts.scss';
+@import 'scss/main.scss';
+
+// @import 'scss/footer.scss';
