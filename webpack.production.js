@@ -21,7 +21,7 @@ module.exports = {
 		path: path.resolve(__dirname, "public"),
 		clean: true,
         // publicPath: 'http://127.0.0.1:5500/',
-        publicPath: '/',
+        publicPath: '',
 	},
     optimization: {
         // for extracting all styles in 1 file
